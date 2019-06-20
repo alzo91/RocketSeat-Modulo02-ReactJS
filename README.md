@@ -29,7 +29,6 @@
  * componentWillUnMount;
  * shouldComponentUpdate(nextProps, nextState), seu retorno deve ser um boolean;
  * componentDidUpdate(prevProps, nextState);
-- [x] 
  
 # Vizualizações do Projeto após ficar pronto.
  * Também foi incorporado neste o desafio junto!
