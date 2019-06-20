@@ -1,0 +1,26 @@
+module.exports = {
+  primary: '#333A56',
+  secondary: '#F4DECB',
+  error: '#f35b04',
+  lightError: '#f18701 ',
+  warning: '#f7b801  ',
+  white: '#ffffff',
+  labelText: '#FFFFFF',
+  titleText: '#f2d38b',
+  border: '#6D7993',
+  buttonView: '#E8E8E8',
+  buttonText: '#18121E',
+};
+/* export const Cores = {
+  primary: '#333A56',
+  secondary: '#F4DECB',
+  error: '#f35b04',
+  lightError: '#f18701 ',
+  warning: '#f7b801  ',
+  white: '#ffffff',
+  labelText: '#FFFFFF',
+  titleText: '#f2d38b',
+  border: '#6D7993',
+  buttonView: '#E8E8E8',
+  buttonText: '#18121E',
+}; */
